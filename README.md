@@ -4,7 +4,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning kotlin,, Gradle, Python, just all I can with my Android Studio..
 - 💞️ I’m looking forward to summer session at ivytech Software App Development 2025
-- 📫 How to reach me heavybluewoodpecker @ SuGoff72@gmail.com
+- 📫 How to reach me heavybluewoodpecker @ SuGoff72@gmail.com/mgoff30@ivytech.edu/2023beginner@gmail.com
 - 😄 Pronouns/ M.Goff..
 - ⚡ Fun fact:/.I can't wait to get
  back in school. from rooting and hatching to designing and programming 
