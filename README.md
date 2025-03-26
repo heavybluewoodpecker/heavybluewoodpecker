@@ -1,3 +1,5 @@
+
+
 .- 👋 Hi, I’m @heavybluewoodpecker
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning kotlin,, Gradle, Python, just all I can with my Android Studio..
