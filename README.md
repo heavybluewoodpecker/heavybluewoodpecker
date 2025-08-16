@@ -7,7 +7,7 @@
 - 📫 How to reach me heavybluewoodpecker @ SuGoff72@gmail.com/mgoff30@ivytech.edu/2023beginner@gmail.com
 - 😄 Pronouns/ M.Goff..
 - ⚡ Fun fact:/.I can't wait to get
- back in school. from rooting and hatching to designing and programming 
+ back in school. from rooting and hacking to designing and programming 
 
 <!---
 heavybluewoodpecker/heavybluewoodpecker-my-new-repo is special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
