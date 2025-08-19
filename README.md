@@ -7,10 +7,5 @@
 - 📫 How to reach me heavybluewoodpecker @ SuGoff72@gmail.com/mgoff30@ivytech.edu/2023beginner@gmail.com
 - heavybluewoodpecker.link
 - 😄 Pronouns/ Mr.G
-- ⚡ Fun fact:/.I can't wait to get
- back in school. from rooting and hacking to designing and programming 
-
-<!---
-heavybluewoodpecker/heavybluewoodpecker-my-new-repo is special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- ⚡ In this Repo, we are finally going to take a look at my Moto Stylus, and what's changed since the addition of Magisk.
 --->
