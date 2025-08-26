@@ -1,0 +1,72 @@
+Readme
+
+###Denver-Global###
+## 2021 Motorola Stylus G 5g (XT-2131-1) rooted with Magisk
+
+Queston? What is rooted and why? So basically rooting a device means:
+All features unlocked except sim, and user has control of all the settings.
+It means I am completely responsible for my device and its condition.
+That being said, I have to say. This Repository only refers to Named Device, in 
+Repo = 2021 Motorola Stylus G 5g (XT-2131-1 Denver-Global)
+
+### Preinstallation
+Since this repo is explicit to this device. I'm going to lay it down like I picked
+it up.
+
+A: TeamWin-TWRP 
+   http://twrp.me, I had to check the device tree, to see if there was even a
+   recovery I could use. At first no, but I didnt give up, and found this ->
+   Make sure you have the right files from Twrp, dont brick your device
+   Initial release: 13 October 2008; 16 years ago
+   License: GNU General Public License v3
+   Original author(s): OmniROM
+   Platform: Android
+   Stable release: 3.7.1 / 21 February 2024; 17 months ago
+   Written in: C++, C, shell, make
+    
+B: Home|Motorola Support US
+   https://en-us.support.motorola.com
+   This is where you goto get your bootloader unlock code. you should have backed up your 
+   device by now. unlocking of the bootloader will wipe your device
+   
+C: Lolinet.com
+   https://mirrors.lolinet.com > firmware > gsi
+   Go here to get original firmware, for your Denver-Global 
+   While your getting your unlock code, remain connected to the USB cable and run
+   Fastboot getvar all-> it gives you all the software info you need to know (free also)
+   
+D: Magisk.com
+   https://magisk.com
+   Get the newest version of Magisk Manager they have, download to your device.
+   I keep mine on my sd card in the device. Just in case something happens.
+   
+#### Installation
+   If I did all the prep right this will go quick
+   
+ 1: Connect my device to my PC via USB cable, head on into Developer Settings
+    Turn on debugging mode, when file transfer pops up on the screen of your 
+    device click on it(accept)
+    
+ 2: G0 to your terminal on your PC run: adb devices, it will say something about
+    starting your server, then your device name.
+    
+ 3: Now you type adb reboot fastboot, your device will reboot to fastboot mode
+ 
+ 4: Type fastboot devices, make sure your in fastboot mode
+ 
+ 5: you got two files from TWRP, you need the one that says twrp.xxx.img.
+    I always rename it to boot.img
+    
+ 6: Go to your command fastboot boot.img (<-actual boot.img) do not flash it
+    just boot. After you boot into TWRP recovery you can flash in the twrp.
+    top left of the menu is the install heading. Go and locate your 
+    Magisk Manager and flash it. After that reboot back into you sysem.
+    
+####Features->
+
+A: So now your device is rooted, be careful not to break it. lol
+ 1: Magisk Module has a bunch of mods. From gaming to system tweaks
+ 2: LSPosed Manager install that, then you can install xposed mods
+B: Remeber you are now the root user and responsible for the device,
+   you can always uninstall Magisk if want.     
+             
