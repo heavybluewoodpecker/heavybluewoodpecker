@@ -1,0 +1,6 @@
+# Checksums for binary artifacts in this repo
+
+# Magisk Manager APK used in the rooting process
+# File: Magisk-v29.0 (1).apk
+# Source: Official Magisk release (v29.0)
+sha256  99d40df1a68a05a5e78452a9cd4f2d753434d7622baeeb44ea14ae8238c1a9ca  Magisk-v29.0 (1).apk

@@ -1,0 +1,13 @@
+# Editor and OS cruft
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Python / build artifacts (in case scripts are added later)
+__pycache__/
+*.py[cod]
+
+# Local backups or firmware images (do not accidentally commit huge files)
+firmware/
+backups/
